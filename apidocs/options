@@ -1,0 +1,24 @@
+-classpath
+'/home/kerthale/Projects/git/blog-utilities/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/kerthale/Projects/git/blog-utilities/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2011-2015 <a href="http://www.palhargitai.eu">Pal Hargitai</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/kerthale/Projects/git/blog-utilities/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Pal Hargitai - Example Utilities 1.0-SNAPSHOT API'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/home/kerthale/Projects/git/blog-utilities/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Pal Hargitai - Example Utilities 1.0-SNAPSHOT API'

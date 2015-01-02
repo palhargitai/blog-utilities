@@ -1,0 +1,26 @@
+-classpath
+'/home/kerthale/Projects/git/blog-utilities/target/classes:/home/kerthale/Projects/git/blog-utilities/target/test-classes:/home/kerthale/.m2/repository/junit/junit/4.8.2/junit-4.8.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/home/kerthale/Projects/git/blog-utilities/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2011-2015 <a href="http://www.palhargitai.eu">Pal Hargitai</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/kerthale/Projects/git/blog-utilities/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Pal Hargitai - Example Utilities 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'http://download.oracle.com/javase/6/docs/api' '/home/kerthale/Projects/git/blog-utilities/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Pal Hargitai - Example Utilities 1.0-SNAPSHOT Test API'
